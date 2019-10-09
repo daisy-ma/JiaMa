@@ -97,7 +97,7 @@ and Family Therapy: Marriage and Family and Social Harmony, Tianjin, China.
 Evidence from eye movements.* [Abstract]. Poster session presented at the 7th China International
 Conference on Eye Movements, CICEM, Changchun, China.
 
-## AWARDS AND HONORS
+## AWARDS & HONORS
 
 * National Scholarship, TJNU, 2017
 
