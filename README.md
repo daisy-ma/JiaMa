@@ -15,7 +15,7 @@
 
 ## RESEARCH PROJECTS
 
-* Multimodal study on behavior and brain mechanisms of children with Chinese dyslexia    
+* **Multimodal study on behavior and brain mechanisms of children with Chinese dyslexia**    
 
     Sponsored by National Natural Science Foundation of China (Grant No. 81471629), 2016 – 2018 
 
@@ -27,7 +27,7 @@
     experimental materials, developmented Eye Movement Program, analyzed eye movement data using R
     program based on Linear Mixed Model (LME), wrote and published two papers in Chinese journal.
 
-* Research on the construction of Chinese children and adolescents' thinking development database and its development model: Construction of general thinking ability development database and analysis of its development model
+* **Research on the construction of Chinese children and adolescents' thinking development database and its development model: Construction of general thinking ability development database and analysis of its development model**
 
     Sponsored by National Social Science Foundation of China (Grant No. 14DB160), 2016 – 2017
 
@@ -35,7 +35,7 @@
 
     - Compiled the Space Imagination Test for school-age children (6-18 years). The questionnaire asked pupils to unfold and fold cuboids whose six faces were painted with different geometric figure. The complexity of these figures varied from cuboids to cuboids and increased with age.
 
-* Psychological measurement APP project
+* **Psychological measurement APP project**
 
     Sponsored by Student’s Platform for Innovation and Entrepreneurship of China, 2016 – 2017
 
@@ -43,7 +43,7 @@
 
     - Selected project topic, participated in literature and questionnaire search, arranged the division of personnel, supervised the issuance of questionnaires, sent questionnaires to 1473 pupils of four schools, guided data analysis with SPSS and MPLUS based on Structural Equation Modeling, wrote papers and published a conference paper.
 
-* The Influence of Network False Commodity on Consumers’ Purchasing Decision Psychology
+* **The Influence of Network False Commodity on Consumers’ Purchasing Decision Psychology**
 
     Sponsored by Student’s Platform for Innovation and Entrepreneurship (Grant No. 2013143), 2013 – 2014
 
