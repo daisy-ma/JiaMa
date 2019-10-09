@@ -135,4 +135,4 @@ Conference on Eye Movements, CICEM, Changchun, China.
 
 
 ## PROFESSIONAL SKILLS
-Experiment Builder, R, SPSS, MATLAB
+* Experiment Builder, R, SPSS, MATLAB
