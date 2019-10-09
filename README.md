@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## EDUCATION
 
-You can use the [editor on GitHub](https://github.com/daisy-ma/JiaMa/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### Tianjin Normal University (TJNU)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Master of Pedagogy in Developmental and Educational Psychology
 
-### Markdown
+### Tianjin Normal University (TJNU) 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Bachelor of Science in Applied Psychology 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+## RESEARCH PROJECTS
 
-- Bulleted
-- List
+### Multimodal study on behavior and brain mechanisms of children with Chinese dyslexia
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+## PUBLICATIONS
 
-[Link](url) and ![Image](src)
-```
+### Journal papers
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+1. Bai, X. J., Ma, J., Lin, X., Lian, K. Y., Tan, K., Yang, Y., & Liang, F. F. (2019). The efficiency and improvement of novel word’s learning in Chinese children with developmental dyslexia during natural reading. Acta Psychologica Sinica, 51 (4), 471–483.
 
-### Jekyll Themes
+2. Liang, F. F., Ma, J., Lin, X., Lian, K. Y., Tan, K., & Bai, X. J. (2019). Saccadic targeting deficits of Chinese children with developmental dyslexia: Evidence from novel word’s learning in reading. Acta Psychologica Sinica, 51 (7), 805–815.
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/daisy-ma/JiaMa/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### Conference papers
 
-### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
