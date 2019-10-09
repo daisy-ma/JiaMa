@@ -19,7 +19,7 @@
 
     Sponsored by National Natural Science Foundation of China (Grant No. 81471629), 2016 – 2018 
 
-    Group member, Director: Prof. Xuejun Bai, TJNU    
+    Director: Prof. Xuejun Bai, TJNU    
 
     - Screened of Chinese children with developmental dyslexia in grade 3, 4 and 5 of 7 primary schools. Using collective test to screen students’ intelligence and literacy, and using individual tests to screen students’ reading comprehension level, phonological awareness, attention, working memory span.
 
@@ -31,7 +31,7 @@
 
     Sponsored by National Social Science Foundation of China (Grant No. 14DB160), 2016 – 2017
 
-    Group member, Director: Prof. Xuejun Bai, TJNU 
+    Director: Prof. Xuejun Bai, TJNU 
 
     - Compiled the Space Imagination Test for school-age children (6-18 years). The questionnaire asked pupils to unfold and fold cuboids whose six faces were painted with different geometric figure. The complexity of these figures varied from cuboids to cuboids and increased with age.
 
